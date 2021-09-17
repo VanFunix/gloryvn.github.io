@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Patrick Hand', cursive;
+}
+
+.container-fluid{
+  font-size: 25px;
+}
+
+nav {
+  box-shadow: 2px rgb(255, 255, 255);
+  font-family: "Pacifico";
+}
+
+.navbar-brand {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+footer {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  max-width: 100%;
+  background: rgb(85, 85, 85);
+  bottom: 0;
+}
